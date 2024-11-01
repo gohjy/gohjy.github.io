@@ -1,4 +1,4 @@
-@import "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans";
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap');
 
 :root {	
 	/*proxies*/
@@ -39,7 +39,7 @@ body {
 }
 
 * {
-	font-family: "Noto Sans", "IBM Plex Sans", monospace;
+	font-family: "Inconsolata", monospace;
 	color: var(--light-theme);
 }
 
