@@ -41,6 +41,7 @@ body {
 * {
 	font-family: "Inconsolata", monospace;
 	color: var(--light-theme);
+	text-transform: lowercase;
 }
 
 ul {
