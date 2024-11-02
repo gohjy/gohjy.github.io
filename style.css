@@ -2,10 +2,10 @@
 
 :root {	
 	/*proxies*/
-	--proxy-light-theme: #F3F5F8;
-	--proxy-dark-theme: #0B233F;
-	--proxy-light-rgba-theme: rgba(243,245,258,.1);
-	--proxy-dark-rgba-theme: rgba(11,35,63,.1);
+	--proxy-light-theme: #FFFFFF;
+	--proxy-dark-theme: #111111;
+	--proxy-light-rgba-theme: rgba(255, 255, 255, .1);
+	--proxy-dark-rgba-theme: rgba(17, 17, 17, .1);
 
 	/*colors*/
 	--light-theme: var(--proxy-light-theme);
